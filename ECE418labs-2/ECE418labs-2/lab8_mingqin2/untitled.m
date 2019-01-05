@@ -1,1 +1,0 @@
-fid = fopen('lena.raw','r');
