@@ -1,0 +1,2 @@
+﻿  Histogram.cpp
+c:\reaearch\image_enhancement(c++)\histogram\histogram\histogram.cpp(20): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data

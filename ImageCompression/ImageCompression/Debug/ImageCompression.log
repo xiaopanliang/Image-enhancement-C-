@@ -1,0 +1,19 @@
+﻿  ImageCompression.cpp
+c:\reaearch\image_enhancement(c++)\imagecompression\imagecompression\imagecompression.cpp(27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\reaearch\image_enhancement(c++)\imagecompression\imagecompression\imagecompression.cpp(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+libpngd.lib(png.obj) : warning LNK4099: PDB 'libpng.pdb' was not found with 'libpngd.lib(png.obj)' or at 'C:\reaearch\Image_enhancement(C++)\ImageCompression\Debug\libpng.pdb'; linking object as if no debug info
+libpngd.lib(pngerror.obj) : warning LNK4099: PDB 'libpng.pdb' was not found with 'libpngd.lib(pngerror.obj)' or at 'C:\reaearch\Image_enhancement(C++)\ImageCompression\Debug\libpng.pdb'; linking object as if no debug info
+libpngd.lib(pngget.obj) : warning LNK4099: PDB 'libpng.pdb' was not found with 'libpngd.lib(pngget.obj)' or at 'C:\reaearch\Image_enhancement(C++)\ImageCompression\Debug\libpng.pdb'; linking object as if no debug info
+libpngd.lib(pngmem.obj) : warning LNK4099: PDB 'libpng.pdb' was not found with 'libpngd.lib(pngmem.obj)' or at 'C:\reaearch\Image_enhancement(C++)\ImageCompression\Debug\libpng.pdb'; linking object as if no debug info
+libpngd.lib(pngread.obj) : warning LNK4099: PDB 'libpng.pdb' was not found with 'libpngd.lib(pngread.obj)' or at 'C:\reaearch\Image_enhancement(C++)\ImageCompression\Debug\libpng.pdb'; linking object as if no debug info
+libpngd.lib(pngrio.obj) : warning LNK4099: PDB 'libpng.pdb' was not found with 'libpngd.lib(pngrio.obj)' or at 'C:\reaearch\Image_enhancement(C++)\ImageCompression\Debug\libpng.pdb'; linking object as if no debug info
+libpngd.lib(pngrtran.obj) : warning LNK4099: PDB 'libpng.pdb' was not found with 'libpngd.lib(pngrtran.obj)' or at 'C:\reaearch\Image_enhancement(C++)\ImageCompression\Debug\libpng.pdb'; linking object as if no debug info
+libpngd.lib(pngrutil.obj) : warning LNK4099: PDB 'libpng.pdb' was not found with 'libpngd.lib(pngrutil.obj)' or at 'C:\reaearch\Image_enhancement(C++)\ImageCompression\Debug\libpng.pdb'; linking object as if no debug info
+libpngd.lib(pngset.obj) : warning LNK4099: PDB 'libpng.pdb' was not found with 'libpngd.lib(pngset.obj)' or at 'C:\reaearch\Image_enhancement(C++)\ImageCompression\Debug\libpng.pdb'; linking object as if no debug info
+libpngd.lib(pngtrans.obj) : warning LNK4099: PDB 'libpng.pdb' was not found with 'libpngd.lib(pngtrans.obj)' or at 'C:\reaearch\Image_enhancement(C++)\ImageCompression\Debug\libpng.pdb'; linking object as if no debug info
+libpngd.lib(pngwio.obj) : warning LNK4099: PDB 'libpng.pdb' was not found with 'libpngd.lib(pngwio.obj)' or at 'C:\reaearch\Image_enhancement(C++)\ImageCompression\Debug\libpng.pdb'; linking object as if no debug info
+libpngd.lib(pngwrite.obj) : warning LNK4099: PDB 'libpng.pdb' was not found with 'libpngd.lib(pngwrite.obj)' or at 'C:\reaearch\Image_enhancement(C++)\ImageCompression\Debug\libpng.pdb'; linking object as if no debug info
+libpngd.lib(pngwtran.obj) : warning LNK4099: PDB 'libpng.pdb' was not found with 'libpngd.lib(pngwtran.obj)' or at 'C:\reaearch\Image_enhancement(C++)\ImageCompression\Debug\libpng.pdb'; linking object as if no debug info
+libpngd.lib(pngwutil.obj) : warning LNK4099: PDB 'libpng.pdb' was not found with 'libpngd.lib(pngwutil.obj)' or at 'C:\reaearch\Image_enhancement(C++)\ImageCompression\Debug\libpng.pdb'; linking object as if no debug info
+  ImageCompression.vcxproj -> C:\reaearch\Image_enhancement(C++)\ImageCompression\Debug\ImageCompression.exe
